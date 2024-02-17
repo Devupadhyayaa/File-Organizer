@@ -1,5 +1,5 @@
 const fs = require("fs/promises");
-const dirpath = "/home/devansh/Pictures/Screenshots";
+const dirpath = "yout/path";
 
 async function readdirectory(){
     try {
